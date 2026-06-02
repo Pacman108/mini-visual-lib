@@ -9,8 +9,9 @@ Mini Visual Lib is a lightweight graphics library for small OLED displays. The g
 The library includes simple UI elements such as icons, progress bars, spinners, sparklines, and small animations that can be used in ESP32-based projects.
 
 ## Demo Video
+https://github.com/user-attachments/assets/71279dc5-0048-4440-b00e-1a62db3f8ecc
 
-[Watch the demo video](media/ToGoOnGithubVLIB.mov)
+
 
 ## Features
 
